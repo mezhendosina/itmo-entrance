@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">itmo enterance</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="success">Успешно\nТеперь QR-код с пропуском доступен на часах!</string>
+</resources>
